@@ -1,0 +1,69 @@
+#about {
+    display: flex;
+    height: 2000px;
+    width: 100vw;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+#background {
+    display: flex;
+    width: 45%;
+    height: 45%;
+    border: solid black;
+    border-radius: 5%;
+    justify-content: center;
+    margin: 15px;
+    align-items: center;
+    flex-direction: column;
+    gap: 25px;
+    padding: 10px;
+}
+
+#education{
+    display: flex;
+    width: 45%;
+    height: 45%;
+    border: solid black;
+    border-radius: 5%;
+    justify-content: center;
+    margin: 15px;
+    align-items: center;
+    flex-direction: column;
+    gap: 25px;
+    padding: 10px;
+
+}
+
+#goals {
+    display: flex;
+    width: 45%;
+    height: 45%;
+    border: solid black;
+    border-radius: 5%;
+    justify-content: center;
+    margin: 15px;
+    align-items: center;
+    flex-direction: column;
+    gap: 25px;
+    padding: 10px;
+
+
+}
+
+#interests {    
+    display: flex;
+    width: 45%;
+    height: 45%;
+    border: solid black;
+    border-radius: 5%;
+    justify-content: center;
+    margin: 15px;
+    align-items: center;
+    flex-direction: column;
+    gap: 25px;
+    padding: 10px;
+
+
+}
